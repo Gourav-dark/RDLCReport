@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\CV_Projects\\AspDotNetCorePractice\\RDLCReport\\RDLC_Report\\RDLC_Report\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RDLC_Report.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RDLC_Report.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\CV_Projects\\AspDotNetCorePractice\\RDLCReport\\RDLC_Report\\RDLC_Report\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\CV_Projects\\AspDotNetCorePractice\\RDLCReport\\RDLC_Report\\RDLC_Report\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\CV_Projects\\AspDotNetCorePractice\\RDLCReport\\RDLC_Report\\RDLC_Report\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\CV_Projects\\AspDotNetCorePractice\\RDLCReport\\RDLC_Report\\RDLC_Report\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RDLC_Report.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RDLC_Report.props",
+      "PackagePath": "build\\RDLC_Report.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RDLC_Report.props",
+      "PackagePath": "buildMultiTargeting\\RDLC_Report.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RDLC_Report.props",
+      "PackagePath": "buildTransitive\\RDLC_Report.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

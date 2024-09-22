@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\CV_Projects\\AspDotNetCorePractice\\RDLCReport\\RDLC_Report\\RDLC_Report.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\CV_Projects\\AspDotNetCorePractice\\RDLCReport\\RDLC_Report\\RDLC_Report.Client\\obj\\Debug\\net8.0\\compressed\\qcjoz4g28g.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\CV_Projects\\AspDotNetCorePractice\\RDLCReport\\RDLC_Report\\RDLC_Report.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "D:\\CV_Projects\\AspDotNetCorePractice\\RDLCReport\\RDLC_Report\\RDLC_Report.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RDLC_Report.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RDLC_Report.Client.props",
+      "PackagePath": "build\\RDLC_Report.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RDLC_Report.Client.props",
+      "PackagePath": "buildMultiTargeting\\RDLC_Report.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RDLC_Report.Client.props",
+      "PackagePath": "buildTransitive\\RDLC_Report.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RDLC_Report.Design/1.0.0": {
+        "runtime": {
+          "RDLC_Report.Design.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RDLC_Report.Design/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
